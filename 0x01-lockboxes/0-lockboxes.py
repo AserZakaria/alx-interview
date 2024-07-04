@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Solution to lockboxes
+"""
 
 def canUnlockAll(boxes):
     if (type(boxes)) is not list:
